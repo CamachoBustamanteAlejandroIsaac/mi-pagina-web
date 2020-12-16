@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Project: Travel webpage</title>
+        
+    </head>
+    <style>
+        h1{
+            color:rgb(122, 4, 14);
+        }
+        body{
+            background:rgb(189, 140, 66);
+        }
+        p{
+            color:rgb(186, 34, 7);
+        }
+        #Tranvia-Oaxaca-heading{
+            background:rgb(45, 217, 247);
+        }
+        #Tranvia-Alebrije-heading{
+            background:rgb(68, 102, 6);
+        }
+        #Arbol-Tule-heading{
+            background:rgb(68, 102, 6);
+        }
+        
+    </style>
+    <body>
+    
+        <h1>Oaxaca de Juárez</h1>
+        
+        <h2 id="Tranvia-Oaxaca-heading">Bienvenidos</h2>
+        <h3 id="Tranvia-Alebrije-heading"><em><strong> <li>Tranvia Turistico "Alebrije"</li></strong></em></h3>
+        
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Santo_Domingo04_inakiherrasti.JPG/275px-Santo_Domingo04_inakiherrasti.JPG" alt="Santo Domingo templo del siglo xvll" width="200">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/El_teatro_Macedonio_Alcal%C3%A1_Oaxaca_Mexico.jpg/275px-El_teatro_Macedonio_Alcal%C3%A1_Oaxaca_Mexico.jpg" alt="teatro Mecedonio Alcalá" width="190">
+
+        <ol>
+            <li><p>Santo Domingo</p></li>
+            <li><p>Teatro Macedonio Alcalá</p></li>
+            <li><p>Zocalo de la Ciudad</p></li>
+            <li><p>Jardin etnobotánico</p></li>
+            <li><p>Corredor Turistico</p></li>
+             <li><p>Museo Casa Juárez</p></li>
+              <li><p>El Parque el Llano</p></li>
+               <li><p>Fuente las ocho regiones</p></li>
+        </ol> 
+       <h4 id="Arbol-Tule-heading"> <em><strong> <li>Árbol del Tule</li></strong></em></h4>
+       
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/ArbolTuleOaxaca.jpg/240px-ArbolTuleOaxaca.jpg" alt="Árbol del Tule" width="200"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/El_Tule_20.jpg/220px-El_Tule_20.jpg" alt="Árbol del Tule" width="200"> 
+    
+    
+          <ol>
+              <li><p>Nombre comun: Ahuehuete o Sabino</p></li>
+              <li><p>Nombre Tec: Taxodium Mucronatum </p></li>
+              <li><p>Edad 2000 años</p></li>
+          </ol>
+          
+    </body>
+</html>

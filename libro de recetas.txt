@@ -1,0 +1,130 @@
+<html>
+    <head>
+        <title>Project: Libro de Recetas</title>
+        <meta charset="utf-8">
+        <style>
+         body{
+             background:rgb(224, 142, 54);
+         }
+         p{
+             color:rgb(218, 245, 10);
+         }
+         #libro-de{
+             background:rgb(242, 17, 47);
+         }
+         #recta-estofado{
+             background:rgb(26, 214, 139);
+         }
+         #rec-verde{
+             background:rgb(26, 214, 139);
+         }
+         #rect-tortas{
+             background:rgb(26, 214, 139);
+         }
+        </style>
+    </head>
+    <body>
+       
+        <h1 id="libro-de">____Libro de Recetas___________</h1>
+        
+        <h2>Contenidos:</h2>
+        
+        <ol>
+            <li><a href="#recta-estofado">Receta #1</a></li>
+            <li><a href="#rec-verde">Receta #2</a></li>
+            <li><a href="#rect-tortas">Receta #3</a></li>
+            
+        </ol>
+        
+    <h2 id="recta-estofado">Receta #1 Estofado</h2>
+        <em><strong><th>Ingredientes</th></strong></em>
+        <ul> 
+            <li>6 ajos asados </li>
+            <li>1 cebolla asada</li>
+            <li>Ajonjolí tostado (1 puño)</li>
+            <li>1 pimineta</li>
+            <li>Tomillo</li>
+            <li>Oregano</li>
+            <li>Almendras (24)</li>
+            <li>Pan frito</li>
+            <li>1 kg. de tomate cosido</li>
+            <li>1 puñito de pasas</li>
+            <li>1 hoja de laurel</li>
+        </ul>
+        
+        <table>
+            <thead>
+                <tr>
+                    <th><em>Forma de</em></th>
+                    <th><em>preparar</em></th>
+                </tr>
+            </thead>
+            <tbody>
+            </tbody>
+        </table>
+        
+        <p><strong> Se muele el tomate y se pone a freir un buen rato, despues se licua todos los ingredientes, c/ caldode carne, menos la hoja de laurel y se agrega al tomate se sigue friendo y despues se le va poniendo el caldo con la carne y la hoja de laurel...  </strong>deja que hierba bien y listo.
+</p>
+        
+    
+    
+    <h2 id="rec-verde">Receta #2 Verde</h2>
+        <em><strong><th>Ingredientes</th></strong></em>
+        <ul> 
+            <li>3 Hojas de hierbabuena </li>
+            <li>4 ramas de epazote</li>
+            <li>1 rollo de perejil criollo</li>
+            <li>6 jitomates grandes</li>
+            <li>5 chiles verdes</li>
+            <li>1 pimienta</li>
+            <li>1 clavo</li>
+            <li>3 ajos</li>
+            <li>1 pisca de comino</li>
+        </ul>
+        
+        <table>
+            <thead>
+                <tr>
+                    <th><em>Forma de</em></th>
+                    <th><em>preparar</em></th>
+                </tr>
+            </thead>
+            <tbody>
+            </tbody>
+        </table>
+        
+        <p><strong>Se licuan los ingrdientes se frien y luego se agregan al caldo con la carne se espesa y de que este hirviendo se le pone lo verde que es la hierba un ratito y se le apaga...  </strong> y listo a disfritar.
+</p>
+
+<h2 id="rect-tortas">Receta #3 Tortas de Pescado</h2>
+        <em><strong><th>Ingredientes</th></strong></em>
+        <ul> 
+            <li> 1/2 kilo de pescado</li>
+            <li>1 huevo</li>
+            <li>1/2 taza de mayonesa</li>
+            <li>1 cucharada de curry</li>
+            <li>1 cucharada de jugo sazonador</li>
+            <li>1 cucharada de oan molido</li>
+            
+        </ul>
+        
+        <table>
+            <thead>
+                <tr>
+                    <th><em>Forma de</em></th>
+                    <th><em>preparar</em></th>
+                </tr>
+            </thead>
+            <tbody>
+            </tbody>
+        </table>
+        
+        <p><strong>Se pica el pescado se le agrega el huevo, la moyonesa, el curry, pan molido y el jugo sazonador y se empiezan hacer las tortitas, se frien bien y... </strong>listo.
+</p>
+        
+    
+        
+    <p><em>Source: <a href="https://www.superama.com.mx/recetas">Some recipes websites</a></em></p>
+    
+    </body>
+</html>

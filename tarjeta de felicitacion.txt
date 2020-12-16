@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Project: Holiday card</title>
+    </head>
+        <style>
+            h1{
+                color:rgb(235, 107, 9);
+            }    
+            body{
+                background:rgb(138, 10, 138);
+            }
+        </style>
+    <body>
+
+        <h1>Día de Muertos</h1>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Altardediademuertos.jpg/250px-Altardediademuertos.jpg" alt="Altar de dia de muertos" width="200">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Posada2.Catrina.jpeg/275px-Posada2.Catrina.jpeg" alt="Catrina disfras tipo en Mexico" width="250">
+    <em><li>Cosas que me gustan </li></em>
+        <ol>
+        <li>Pan de Muertos</li>
+        <li>Muertiadas</li>
+        <li>Comida</li>
+        <li>Disfraces</li>
+        <li>Exposición de Altareas</li>
+        <li>Artesanias alusivas a la fecha</li>
+        </ol>
+       
+        
+    </body>
+</html>
